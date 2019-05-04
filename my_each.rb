@@ -6,3 +6,7 @@ yield
   collection
 end
 
+my_each(collection) do |i|
+  while i < collection.length
+  puts i
+end
