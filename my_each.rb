@@ -3,7 +3,9 @@ def my_each(collection)
 counter = 0
 yield
 end
-my_each(collection) while counter < collection.length |i|
+my_each(collection)
+  while counter < collection.length do |i|
   i
   counter += 1
+    end
 end
