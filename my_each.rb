@@ -4,7 +4,7 @@ def my_each(array)
   yield
 end
 
-my_each(collection) do |i|
+my_each(array) do |i|
  counter = 0
   while counter < collection.length
     i
