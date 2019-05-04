@@ -11,3 +11,4 @@ my_each(collection)
     i
   counter += 1
     end
+end
