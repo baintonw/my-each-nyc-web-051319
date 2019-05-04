@@ -12,3 +12,4 @@ my_each(collection)
   counter += 1
     end
 end
+end
