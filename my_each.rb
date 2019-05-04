@@ -5,6 +5,7 @@ def my_each(collection)
 yield
   collection
 end
+
 my_each(collection)
   while counter < collection.length do |i|
   i
