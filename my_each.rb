@@ -8,7 +8,7 @@ end
 
 my_each(collection)
   while counter < collection.length do |i|
-  i
+    i
   counter += 1
     end
 end
